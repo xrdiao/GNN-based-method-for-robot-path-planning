@@ -9,7 +9,7 @@ We propose a learning-based path planning method that reduces the number of coll
 
 ```bibtex
 @article{DIAO2024100147,
-title = {Graph neural network based method for robot path planning},
+title = {Graph neural network-based method for robot path planning},
 journal = {Biomimetic Intelligence and Robotics},
 volume = {4},
 number = {1},

@@ -1,12 +1,12 @@
 # GNN-based-method-for-robot-path-planning
 
-
+[Graph neural network based method for robot path planning](https://www.sciencedirect.com/science/article/pii/S2667379724000056)
 
 
 
 ## Citation
 
-```bibtex
+\```bibtex
 
 @article{DIAO2024100147,
 
